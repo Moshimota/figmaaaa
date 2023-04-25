@@ -1,0 +1,12 @@
+.df1{
+    display: flex;
+    justify-content: space-between;
+}
+.df2{
+    display: flex;
+    gap: 15px;
+    margin-top: 14px;
+}
+.txe{
+    text-align: end;
+}

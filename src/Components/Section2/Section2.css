@@ -1,0 +1,38 @@
+.card1{
+    background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+border-radius: 30px;
+height: 407.65px;
+margin-bottom: 30px;
+padding-top: 14px;
+padding-left: 22px;
+}
+.igo{
+    height: 237px;
+    text-align: center;
+}
+.df{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 22px;
+    margin-top: 54px;
+}
+.ric{
+    font-weight: 600;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFA542;
+
+}
+.eman{
+    font-weight: 600;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #1C1C27;
+}
